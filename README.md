@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="center">
+    <img float="left" src="https://github-readme-stats.vercel.app/api?username=akcauser&show_icons=true&theme=radical">
+</p>
 
 <!--
 **akcauser/akcauser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
