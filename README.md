@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-    <img float="left" src="https://github-readme-stats.vercel.app/api?username=akcauser&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=akcauser&show_icons=true&theme=radical">
 </p>
 
 - 💬 Ask me about Software.
