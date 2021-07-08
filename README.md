@@ -10,17 +10,6 @@ He can do;
 * Ecommerce Website
 * Search Engine Optimization
 
-Completed Courses: 
-
-* Web Programming with Codeigniter
-* Laravel Documentation
-* Mobile Programming with Flutter
-* Network Programming
-* JAVA Applications
-* Android Programming with JAVA
-* IOS Programming with Swift 3
-* Robotic Programming with Android.
-
 - 💬 Ask me about Laravel and PHP. Also Flutter, Codeigniter and more :).
 - 📫 How to reach me: akcaertugrulgazi@gmail.com
 
@@ -28,6 +17,7 @@ Connect with other:
 
 <a href="https://twitter.com/akcauser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akcauser" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akcauser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akcauser" height="30" width="40" /></a>
+<a href="https://superpeer.com/akcauser" target="blank"><img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/uvh0dpthfhk62lqiprtb" alt="akcauser" height="30" width="40" /></a>
 
 <p align="center">
     <img alt="akcauser" src="https://github-readme-stats.vercel.app/api?username=akcauser&show_icons=true&theme=radical">
@@ -53,3 +43,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Completed Courses: 
+
+* Web Programming with Codeigniter
+* Laravel Documentation
+* Mobile Programming with Flutter
+* Network Programming
+* JAVA Applications
+* Android Programming with JAVA
+* IOS Programming with Swift 3
+* Robotic Programming with Android.
