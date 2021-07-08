@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 Completed Courses: 
 
@@ -54,3 +54,6 @@ Completed Courses:
 * Android Programming with JAVA
 * IOS Programming with Swift 3
 * Robotic Programming with Android.
+
+-->
+
